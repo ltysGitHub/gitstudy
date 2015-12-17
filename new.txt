@@ -4,3 +4,4 @@ the new_dev branch content
 the master branch content
 dev content
 test the --no-ff mode
+test the stash
